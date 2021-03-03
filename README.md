@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Nymphxyz/Nymphxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Nymphxyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nymphxyz&count_private=true&show_icons=true&include_all_commits=true&theme=dark&exclude_repo=520)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nymphxyz&layout=compact&bg_color=transparent&title_color=abd200&text_color=3fb950&hide_border=1&langs_count=10)](https://github.com/Nymphxyz)
